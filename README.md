@@ -62,3 +62,8 @@ Confirm the requester and the file will be saved. This file can be processed by 
 
 
 So now I'm tired of writing instructions 
+
+here are the short tutorials:
+https://www.dropbox.com/s/yiag7gsusco1j84/ai42_tutorial.mp4?dl=0
+https://www.dropbox.com/s/pdze1zct1jvd8zu/mapcreatortutorial.mp4?dl=0
+
